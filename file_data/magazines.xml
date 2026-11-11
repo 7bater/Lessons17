@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMagazine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Magazine>
+    <Name>IT World</Name>
+    <Publisher>Danya Team</Publisher>
+    <ReleaseDate>2026-11-20</ReleaseDate>
+    <PageCount>72</PageCount>
+    <Articles>
+      <Article>
+        <Title>Сучасний C#</Title>
+        <CharacterCount>2800</CharacterCount>
+        <Announcement>Огляд нових можливостей мови програмування C#.</Announcement>
+      </Article>
+      <Article>
+        <Title>Архітектура System.IO</Title>
+        <CharacterCount>1900</CharacterCount>
+        <Announcement>Правильна робота з файлами та потоками.</Announcement>
+      </Article>
+    </Articles>
+  </Magazine>
+  <Magazine>
+    <Name>Science &amp; Tech</Name>
+    <Publisher>Global Press</Publisher>
+    <ReleaseDate>2026-11-20</ReleaseDate>
+    <PageCount>48</PageCount>
+    <Articles>
+      <Article>
+        <Title>Штучний інтелект</Title>
+        <CharacterCount>3200</CharacterCount>
+        <Announcement>Майбутнє нейромереж та їх застосування.</Announcement>
+      </Article>
+    </Articles>
+  </Magazine>
+</ArrayOfMagazine>
